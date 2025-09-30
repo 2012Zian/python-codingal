@@ -1,2 +1,6 @@
 print("rajs best friends birthday is on the 11 september 2025 its in a few days")
 print("This birthday is stored for once a year")
+print("his other friends birthda is on the 3 july")
+print(" his other best friends birthday is on the 3 of february")
+print("rajs first friends birthday is on the 8 of october")
+print("and the last ones birthday is on the 31 of march")

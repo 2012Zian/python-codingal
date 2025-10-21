@@ -5,7 +5,7 @@ turtle.Screen().setup(300,400)
 
 polygon = turtle.Turtle()
 
-numsides = 6
+numsides = 4
 sidelength = 70
 angle = 360/numsides
 

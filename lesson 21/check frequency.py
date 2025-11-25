@@ -1,7 +1,7 @@
-dictionary = {'Codingal' : 2, 'is' : 2, 'best' : 2, 'for' : 2, 'Coding' : 1}
+dictionary = {'google' : 4, 'is' : 3, 'best' : 2, 'for' : 3, 'searching' : 3}
 
 print('original dictionary',dictionary)
-k=2
+k=3
 count=0
 for key in dictionary:
     if dictionary[key] == k:
